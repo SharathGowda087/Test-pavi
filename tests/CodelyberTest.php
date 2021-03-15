@@ -17,3 +17,5 @@ final class CodelyberTest extends TestCase
         self::assertEquals("CodelyTV", $codelyber->greet());
     }
 }
+
+echo "test";
